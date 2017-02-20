@@ -54,12 +54,15 @@
   padding: 0 20px;
   border-radius: 20em;
   line-height: 40px;
-  background-color: blue;
+  background-color: green;
   color: white;
   font-size: 14px;
-  border: 2px solid blue;
+  border: 2px solid green;
 }
 .navbar-wagon-button:hover {
+  color: white;
+  background: green;
+  border-color: green;
   color: white;
   background: blue;
   border-color: blue;
@@ -115,7 +118,11 @@
 }
 .navbar-wagon-dropdown-menu li > a:hover {
   background: transparent !important;
+<<<<<<< HEAD
+  color: green !important;
+=======
   color: blue !important;
+>>>>>>> 4ab5e812ebac73d0801db2ee64c7815f8925f5aa
 }
 .navbar-wagon-dropdown-menu:before {
   content: ' ';
