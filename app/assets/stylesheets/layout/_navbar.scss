@@ -54,15 +54,15 @@
   padding: 0 20px;
   border-radius: 20em;
   line-height: 40px;
-  background-color: red;
+  background-color: green;
   color: white;
   font-size: 14px;
-  border: 2px solid red;
+  border: 2px solid green;
 }
 .navbar-wagon-button:hover {
   color: white;
-  background: red;
-  border-color: red;
+  background: green;
+  border-color: green;
 }
 
 /* Navbar search form */
@@ -115,7 +115,7 @@
 }
 .navbar-wagon-dropdown-menu li > a:hover {
   background: transparent !important;
-  color: red !important;
+  color: green !important;
 }
 .navbar-wagon-dropdown-menu:before {
   content: ' ';
